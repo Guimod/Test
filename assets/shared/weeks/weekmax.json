@@ -1,0 +1,32 @@
+{
+	"storyName": "good... because I didn't do my homework",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "max",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"help-me",
+			"max",
+			[
+				255,
+				213,
+				39
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Max Freaky Pro",
+	"hiddenUntilUnlocked": false
+}
