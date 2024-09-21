@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Kastimagina",
+			"emanuel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pain",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bonus",
+	"weekName": "B",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
