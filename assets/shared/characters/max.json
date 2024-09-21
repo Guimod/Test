@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-8,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-33,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-34,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				15
+			],
+			"anim": "WhatHelpMe",
+			"fps": 24,
+			"name": "what help me",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/max design pro sprites new",
+	"position": [
+		100,
+		20
+	],
+	"healthicon": "max",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		213,
+		39
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
